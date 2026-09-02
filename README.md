@@ -187,3 +187,15 @@ You can find my latest problem-solving activity on my LeetCode profile:
 ⭐ If you find this repository useful, consider giving it a star!
 
 **Keep Coding. Keep Learning. Keep Improving. 🚀**
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/akshya44/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3875-construct-uniform-parity-array-i](https://github.com/akshya44/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+<!---LeetCode Topics End-->
