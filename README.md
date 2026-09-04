@@ -197,6 +197,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [3731-find-missing-elements](https://github.com/akshya44/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshya44/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/akshya44/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,4 +250,8 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3731-find-missing-elements](https://github.com/akshya44/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3903-smallest-stable-index-i](https://github.com/akshya44/LeetCode/tree/main/3903-smallest-stable-index-i/) | Easy |
 <!---LeetCode Topics End-->
