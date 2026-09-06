@@ -224,6 +224,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshya44/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0115-distinct-subsequences](https://github.com/akshya44/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -231,6 +232,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0115-distinct-subsequences](https://github.com/akshya44/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0877-stone-game](https://github.com/akshya44/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 ## Minimax
