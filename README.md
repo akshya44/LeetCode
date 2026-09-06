@@ -206,6 +206,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [0002-add-two-numbers](https://github.com/akshya44/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0877-stone-game](https://github.com/akshya44/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshya44/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshya44/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -279,4 +280,8 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshya44/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/akshya44/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 <!---LeetCode Topics End-->
