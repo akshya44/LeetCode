@@ -205,6 +205,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/akshya44/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
 | [0012-integer-to-roman](https://github.com/akshya44/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/akshya44/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0877-stone-game](https://github.com/akshya44/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshya44/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
@@ -224,6 +225,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshya44/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0012-integer-to-roman](https://github.com/akshya44/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/akshya44/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/akshya44/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -231,6 +233,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [0003-longest-substring-without-repeating-characters](https://github.com/akshya44/LeetCode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0006-zigzag-conversion](https://github.com/akshya44/LeetCode/tree/main/0006-zigzag-conversion/) | Medium |
 | [0012-integer-to-roman](https://github.com/akshya44/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
+| [0013-roman-to-integer](https://github.com/akshya44/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0115-distinct-subsequences](https://github.com/akshya44/LeetCode/tree/main/0115-distinct-subsequences/) | Hard |
 | [0940-distinct-subsequences-ii](https://github.com/akshya44/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 ## Sliding Window
