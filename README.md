@@ -209,6 +209,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshya44/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3870-count-commas-in-range](https://github.com/akshya44/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
+| [3871-count-commas-in-range-ii](https://github.com/akshya44/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshya44/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
