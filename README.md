@@ -196,6 +196,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [0004-median-of-two-sorted-arrays](https://github.com/akshya44/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0877-stone-game](https://github.com/akshya44/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshya44/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/akshya44/LeetCode/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3731-find-missing-elements](https://github.com/akshya44/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshya44/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -254,6 +255,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [0940-distinct-subsequences-ii](https://github.com/akshya44/LeetCode/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akshya44/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshya44/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshya44/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3731-find-missing-elements](https://github.com/akshya44/LeetCode/tree/main/3731-find-missing-elements/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -298,6 +301,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshya44/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshya44/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
