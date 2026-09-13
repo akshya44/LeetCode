@@ -194,6 +194,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akshya44/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0835-image-overlap](https://github.com/akshya44/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/akshya44/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshya44/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
@@ -349,4 +350,8 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshya44/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0835-image-overlap](https://github.com/akshya44/LeetCode/tree/main/0835-image-overlap/) | Medium |
 <!---LeetCode Topics End-->
