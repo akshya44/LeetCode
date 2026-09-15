@@ -363,4 +363,8 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/akshya44/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/akshya44/LeetCode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
