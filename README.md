@@ -288,6 +288,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshya44/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshya44/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/akshya44/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/akshya44/LeetCode/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
