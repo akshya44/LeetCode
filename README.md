@@ -231,6 +231,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akshya44/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshya44/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+| [2409-count-days-spent-together](https://github.com/akshya44/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/akshya44/LeetCode/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshya44/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/akshya44/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -287,6 +288,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshya44/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshya44/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshya44/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/akshya44/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshya44/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshya44/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3498-reverse-degree-of-a-string](https://github.com/akshya44/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
