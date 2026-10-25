@@ -196,6 +196,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [0004-median-of-two-sorted-arrays](https://github.com/akshya44/LeetCode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0835-image-overlap](https://github.com/akshya44/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/akshya44/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/akshya44/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshya44/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshya44/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
@@ -355,6 +356,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/akshya44/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/akshya44/LeetCode/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/akshya44/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Breadth-First Search
@@ -362,6 +364,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | ------- | ------- |
 | [0301-remove-invalid-parentheses](https://github.com/akshya44/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/akshya44/LeetCode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1254-number-of-closed-islands](https://github.com/akshya44/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [3310-remove-methods-from-project](https://github.com/akshya44/LeetCode/tree/main/3310-remove-methods-from-project/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -439,6 +442,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0835-image-overlap](https://github.com/akshya44/LeetCode/tree/main/0835-image-overlap/) | Medium |
+| [1254-number-of-closed-islands](https://github.com/akshya44/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/akshya44/LeetCode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Geometry
 | Problem Name | Difficulty |
@@ -500,6 +504,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1254-number-of-closed-islands](https://github.com/akshya44/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/akshya44/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
