@@ -238,6 +238,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshya44/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/akshya44/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/akshya44/LeetCode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/akshya44/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 | [3870-count-commas-in-range](https://github.com/akshya44/LeetCode/tree/main/3870-count-commas-in-range/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/akshya44/LeetCode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/akshya44/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -436,6 +437,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/akshya44/LeetCode/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshya44/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akshya44/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/akshya44/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
