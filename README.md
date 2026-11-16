@@ -296,6 +296,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/akshya44/LeetCode/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/akshya44/LeetCode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/akshya44/LeetCode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akshya44/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2409-count-days-spent-together](https://github.com/akshya44/LeetCode/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/akshya44/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshya44/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
@@ -470,6 +471,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/akshya44/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [3498-reverse-degree-of-a-string](https://github.com/akshya44/LeetCode/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
