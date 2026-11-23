@@ -197,6 +197,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [0835-image-overlap](https://github.com/akshya44/LeetCode/tree/main/0835-image-overlap/) | Medium |
 | [0877-stone-game](https://github.com/akshya44/LeetCode/tree/main/0877-stone-game/) | Medium |
 | [1254-number-of-closed-islands](https://github.com/akshya44/LeetCode/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshya44/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/akshya44/LeetCode/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshya44/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
@@ -233,6 +234,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [0013-roman-to-integer](https://github.com/akshya44/LeetCode/tree/main/0013-roman-to-integer/) | Easy |
 | [0836-rectangle-overlap](https://github.com/akshya44/LeetCode/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/akshya44/LeetCode/tree/main/0877-stone-game/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshya44/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1401-circle-and-rectangle-overlapping](https://github.com/akshya44/LeetCode/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1406-stone-game-iii](https://github.com/akshya44/LeetCode/tree/main/1406-stone-game-iii/) | Hard |
 | [1510-stone-game-iv](https://github.com/akshya44/LeetCode/tree/main/1510-stone-game-iv/) | Hard |
@@ -366,6 +368,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshya44/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/akshya44/LeetCode/tree/main/1524-number-of-sub-arrays-with-odd-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/akshya44/LeetCode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3364-minimum-positive-sum-subarray](https://github.com/akshya44/LeetCode/tree/main/3364-minimum-positive-sum-subarray/) | Easy |
@@ -557,4 +560,12 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/akshya44/LeetCode/tree/main/3420-count-non-decreasing-subarrays-after-k-operations/) | Hard |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshya44/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/akshya44/LeetCode/tree/main/1352-product-of-the-last-k-numbers/) | Medium |
 <!---LeetCode Topics End-->
