@@ -228,6 +228,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [3904-smallest-stable-index-ii](https://github.com/akshya44/LeetCode/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3934-smallest-unique-subarray](https://github.com/akshya44/LeetCode/tree/main/3934-smallest-unique-subarray/) | Hard |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/akshya44/LeetCode/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/akshya44/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +343,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/akshya44/LeetCode/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/akshya44/LeetCode/tree/main/3524-find-x-value-of-array-i/) | Medium |
 | [3693-climbing-stairs-ii](https://github.com/akshya44/LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/akshya44/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Minimax
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -465,6 +467,7 @@ You can find my latest problem-solving activity on my LeetCode profile:
 | [3348-smallest-divisible-digit-product-ii](https://github.com/akshya44/LeetCode/tree/main/3348-smallest-divisible-digit-product-ii/) | Hard |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/akshya44/LeetCode/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/akshya44/LeetCode/tree/main/3789-minimum-cost-to-acquire-required-items/) | Medium |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/akshya44/LeetCode/tree/main/3946-maximum-number-of-items-from-sale-i/) | Medium |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
